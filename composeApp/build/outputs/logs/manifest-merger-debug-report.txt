@@ -1,0 +1,322 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.activity:activity:1.9.3] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/fcde2a266629bd0b62cfb81f32467b48/transformed/activity-1.9.3/AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d63a8846b794c114a638511e948ed1ff/transformed/library-release/AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.compose.material:material-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/bfb49af1d4145e6d5b285c90ff76244d/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/74da56544821a31636b233627c4aa996/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/2356dbc430ba4396a72bccff8e2e6ce5/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/3599ccadf3941c22e86fea695a235742/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/b15bfcdb9fe321eb3417f545199b6144/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/17ec2f02bbbbab4d6e5e64a34c1766a0/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/f9eec9067af1ce1f9146d2bd4eaccc0e/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/b0b3ce8900beff51db8322a9bfbc0841/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/5541401e672fe3429cca3d9ee8f1d901/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/408f9bee4167a0b060cfc5a6e6fc915e/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/917dc3f2c0122842b605158e72569c1c/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/a96a09cea430327cc88d17d4a31cbb00/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/2cd73a200f2eb529169c897eb74f4a57/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/0ccd54c21b755640b1993658f939e7e0/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/fd7ba447db0961f8e4d79307eb4a16a8/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/46efb7bb01c9d0d1e22102a35f35ab2c/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c950c49e50398b193aac72bce30c2be8/transformed/activity-ktx-1.9.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.3] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d254603043fa288dd22d006b1a4d43c5/transformed/activity-compose-1.9.3/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared] /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.7.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/75fca7ebfd1bd93a00a3d67d96022766/transformed/library-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/80a1248b1beef7c4ffc4eb499684c1d5/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/98802e1f9600f7bc620276c943fbb268/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d7009c82c9763ef7ce3aaf34e9f5fd13/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/e7142e639bb69b802dfd785a5845388c/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/a3165a16ab37bb33ba6e2b9b670a5969/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c602750624cee4587e87b73e1956844c/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/ad2d99d2c240478e9c6665fb25e9fce5/transformed/lifecycle-livedata-core-2.8.5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/51ec8734a7754990d8fc0f4a63637af9/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/f0385aa93adb0b2924ee21592f2d8fca/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/f5f1a2ce836bd45b07cda0f8d92d0a85/transformed/lifecycle-viewmodel-ktx-2.8.5/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/4a49b8c1d6c9f6abb024b2275cebcc8b/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/11ed9b3ace18c19615325740fb303f63/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/280e194af09baffa1c9d1b30740a68c5/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/1e3e52a283b2b3ed1f7641315636a91d/transformed/lifecycle-viewmodel-savedstate-2.8.5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/da53b750c3625e46caa5780b775c9c4d/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d756ecac03a508e656595bdb556344cf/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/8d473c4eea4e2c9d4cd434199f77296c/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/8cdef96eec99e320b746ce3742187a89/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/b6bbfa9bc3de1c9a039e292ea1eb09d6/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/aa35dfbdc7af50e37966086b5b4a73a0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/5533fc0c27fe9a9ac2df031a2814e06e/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/df55f35102b3f5aaebf9d77bd3c177c6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/ecc72f4a83ca62c6800b9129c795ec3b/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/489468859853268c7e7683cf1cf4cbfd/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:4:5-21:19
+INJECTED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:4:5-21:19
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d63a8846b794c114a638511e948ed1ff/transformed/library-release/AndroidManifest.xml:7:5-14:19
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d63a8846b794c114a638511e948ed1ff/transformed/library-release/AndroidManifest.xml:7:5-14:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/2cd73a200f2eb529169c897eb74f4a57/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/2cd73a200f2eb529169c897eb74f4a57/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/80a1248b1beef7c4ffc4eb499684c1d5/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/80a1248b1beef7c4ffc4eb499684c1d5/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c602750624cee4587e87b73e1956844c/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c602750624cee4587e87b73e1956844c/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/f0385aa93adb0b2924ee21592f2d8fca/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/f0385aa93adb0b2924ee21592f2d8fca/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/aa35dfbdc7af50e37966086b5b4a73a0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/aa35dfbdc7af50e37966086b5b4a73a0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/df55f35102b3f5aaebf9d77bd3c177c6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/df55f35102b3f5aaebf9d77bd3c177c6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c602750624cee4587e87b73e1956844c/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:10:9-72
+activity#org.weatherapp.project.MainActivity
+ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:11:9-20:20
+	android:exported
+		ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:12:13-36
+	android:configChanges
+		ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:13:13-225
+	android:name
+		ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml
+MERGED from [androidx.activity:activity:1.9.3] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/fcde2a266629bd0b62cfb81f32467b48/transformed/activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/fcde2a266629bd0b62cfb81f32467b48/transformed/activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d63a8846b794c114a638511e948ed1ff/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d63a8846b794c114a638511e948ed1ff/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/bfb49af1d4145e6d5b285c90ff76244d/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/bfb49af1d4145e6d5b285c90ff76244d/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/74da56544821a31636b233627c4aa996/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/74da56544821a31636b233627c4aa996/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/2356dbc430ba4396a72bccff8e2e6ce5/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/2356dbc430ba4396a72bccff8e2e6ce5/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/3599ccadf3941c22e86fea695a235742/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/3599ccadf3941c22e86fea695a235742/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/b15bfcdb9fe321eb3417f545199b6144/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/b15bfcdb9fe321eb3417f545199b6144/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/17ec2f02bbbbab4d6e5e64a34c1766a0/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/17ec2f02bbbbab4d6e5e64a34c1766a0/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/f9eec9067af1ce1f9146d2bd4eaccc0e/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/f9eec9067af1ce1f9146d2bd4eaccc0e/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/b0b3ce8900beff51db8322a9bfbc0841/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/b0b3ce8900beff51db8322a9bfbc0841/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/5541401e672fe3429cca3d9ee8f1d901/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/5541401e672fe3429cca3d9ee8f1d901/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/408f9bee4167a0b060cfc5a6e6fc915e/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/408f9bee4167a0b060cfc5a6e6fc915e/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/917dc3f2c0122842b605158e72569c1c/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/917dc3f2c0122842b605158e72569c1c/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/a96a09cea430327cc88d17d4a31cbb00/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/a96a09cea430327cc88d17d4a31cbb00/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/2cd73a200f2eb529169c897eb74f4a57/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/2cd73a200f2eb529169c897eb74f4a57/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/0ccd54c21b755640b1993658f939e7e0/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/0ccd54c21b755640b1993658f939e7e0/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/fd7ba447db0961f8e4d79307eb4a16a8/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/fd7ba447db0961f8e4d79307eb4a16a8/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/46efb7bb01c9d0d1e22102a35f35ab2c/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/46efb7bb01c9d0d1e22102a35f35ab2c/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c950c49e50398b193aac72bce30c2be8/transformed/activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c950c49e50398b193aac72bce30c2be8/transformed/activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d254603043fa288dd22d006b1a4d43c5/transformed/activity-compose-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d254603043fa288dd22d006b1a4d43c5/transformed/activity-compose-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.7.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/75fca7ebfd1bd93a00a3d67d96022766/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.7.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/75fca7ebfd1bd93a00a3d67d96022766/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/80a1248b1beef7c4ffc4eb499684c1d5/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/80a1248b1beef7c4ffc4eb499684c1d5/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/98802e1f9600f7bc620276c943fbb268/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/98802e1f9600f7bc620276c943fbb268/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d7009c82c9763ef7ce3aaf34e9f5fd13/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d7009c82c9763ef7ce3aaf34e9f5fd13/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/e7142e639bb69b802dfd785a5845388c/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/e7142e639bb69b802dfd785a5845388c/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/a3165a16ab37bb33ba6e2b9b670a5969/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/a3165a16ab37bb33ba6e2b9b670a5969/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c602750624cee4587e87b73e1956844c/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c602750624cee4587e87b73e1956844c/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/ad2d99d2c240478e9c6665fb25e9fce5/transformed/lifecycle-livedata-core-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/ad2d99d2c240478e9c6665fb25e9fce5/transformed/lifecycle-livedata-core-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/51ec8734a7754990d8fc0f4a63637af9/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/51ec8734a7754990d8fc0f4a63637af9/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/f0385aa93adb0b2924ee21592f2d8fca/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/f0385aa93adb0b2924ee21592f2d8fca/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/f5f1a2ce836bd45b07cda0f8d92d0a85/transformed/lifecycle-viewmodel-ktx-2.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/f5f1a2ce836bd45b07cda0f8d92d0a85/transformed/lifecycle-viewmodel-ktx-2.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/4a49b8c1d6c9f6abb024b2275cebcc8b/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/4a49b8c1d6c9f6abb024b2275cebcc8b/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/11ed9b3ace18c19615325740fb303f63/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/11ed9b3ace18c19615325740fb303f63/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/280e194af09baffa1c9d1b30740a68c5/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/280e194af09baffa1c9d1b30740a68c5/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/1e3e52a283b2b3ed1f7641315636a91d/transformed/lifecycle-viewmodel-savedstate-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/1e3e52a283b2b3ed1f7641315636a91d/transformed/lifecycle-viewmodel-savedstate-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/da53b750c3625e46caa5780b775c9c4d/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/da53b750c3625e46caa5780b775c9c4d/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d756ecac03a508e656595bdb556344cf/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d756ecac03a508e656595bdb556344cf/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/8d473c4eea4e2c9d4cd434199f77296c/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/8d473c4eea4e2c9d4cd434199f77296c/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/8cdef96eec99e320b746ce3742187a89/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/8cdef96eec99e320b746ce3742187a89/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/b6bbfa9bc3de1c9a039e292ea1eb09d6/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/b6bbfa9bc3de1c9a039e292ea1eb09d6/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/aa35dfbdc7af50e37966086b5b4a73a0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/aa35dfbdc7af50e37966086b5b4a73a0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/5533fc0c27fe9a9ac2df031a2814e06e/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/5533fc0c27fe9a9ac2df031a2814e06e/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/df55f35102b3f5aaebf9d77bd3c177c6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/df55f35102b3f5aaebf9d77bd3c177c6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/ecc72f4a83ca62c6800b9129c795ec3b/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/ecc72f4a83ca62c6800b9129c795ec3b/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/489468859853268c7e7683cf1cf4cbfd/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/489468859853268c7e7683cf1cf4cbfd/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ruslankuzmin/Data/Projects/KMP/Git/WeatherAppKMP/composeApp/src/androidMain/AndroidManifest.xml
+provider#org.jetbrains.compose.resources.AndroidContextProvider
+ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d63a8846b794c114a638511e948ed1ff/transformed/library-release/AndroidManifest.xml:8:9-13:20
+	android:enabled
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d63a8846b794c114a638511e948ed1ff/transformed/library-release/AndroidManifest.xml:11:13-35
+	android:authorities
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d63a8846b794c114a638511e948ed1ff/transformed/library-release/AndroidManifest.xml:10:13-84
+	android:exported
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d63a8846b794c114a638511e948ed1ff/transformed/library-release/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/d63a8846b794c114a638511e948ed1ff/transformed/library-release/AndroidManifest.xml:9:13-82
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/2cd73a200f2eb529169c897eb74f4a57/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/2cd73a200f2eb529169c897eb74f4a57/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/2cd73a200f2eb529169c897eb74f4a57/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/80a1248b1beef7c4ffc4eb499684c1d5/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/f0385aa93adb0b2924ee21592f2d8fca/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/f0385aa93adb0b2924ee21592f2d8fca/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/df55f35102b3f5aaebf9d77bd3c177c6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/df55f35102b3f5aaebf9d77bd3c177c6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/80a1248b1beef7c4ffc4eb499684c1d5/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/80a1248b1beef7c4ffc4eb499684c1d5/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/80a1248b1beef7c4ffc4eb499684c1d5/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/80a1248b1beef7c4ffc4eb499684c1d5/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/80a1248b1beef7c4ffc4eb499684c1d5/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/80a1248b1beef7c4ffc4eb499684c1d5/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/80a1248b1beef7c4ffc4eb499684c1d5/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c602750624cee4587e87b73e1956844c/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c602750624cee4587e87b73e1956844c/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c602750624cee4587e87b73e1956844c/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#org.weatherapp.project.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c602750624cee4587e87b73e1956844c/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c602750624cee4587e87b73e1956844c/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c602750624cee4587e87b73e1956844c/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c602750624cee4587e87b73e1956844c/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c602750624cee4587e87b73e1956844c/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#org.weatherapp.project.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c602750624cee4587e87b73e1956844c/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c602750624cee4587e87b73e1956844c/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/f0385aa93adb0b2924ee21592f2d8fca/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/f0385aa93adb0b2924ee21592f2d8fca/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/f0385aa93adb0b2924ee21592f2d8fca/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ruslankuzmin/.gradle/caches/8.9/transforms/c82f0cbc79183d8e9e9249528a146c2a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
